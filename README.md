@@ -1,2 +1,2 @@
 # Pruebas
-Este es un test nuevo de colaboració entre el Lobo y el Tiburón.
+Este es un test nuevo de colaboración entre el Lobo y el Tiburón.
